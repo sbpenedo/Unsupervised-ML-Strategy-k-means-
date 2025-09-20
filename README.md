@@ -21,7 +21,7 @@ The strategy's approach is broken down into a few key steps that run on a monthl
 
 ---
 ## Performance Results
-The results were pretty interesting. The strategy managed to keep pace with the SPY benchmark and even beat it for a good stretch of time, especially during the market chop in 2022.
+The results were pretty interesting. The strategy managed to keep pace with the SPY benchmark and even beat it for a good stretch of time between 2020 and early 2021.
 
 However, the algorithm struggled a lot in recent years and fell behind the simple buy and hold strategy.
 
